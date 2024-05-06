@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Welcome To Heibi Your Tamagotchi App</string>
+    <string name="getstartedButtun">Get Started!</string>
+    <string name="feedButton">Feed</string>
+    <string name="cleanButton">Clean</string>
+    <string name="playButton">Play</string>
+    <string name="hungerView">Hunger</string>
+    <string name="cleanView">Clean</string>
+    <string name="happyView">Happy</string>
+    <string name="hungerCount"> </string>
+    <string name="cleanCount"> </string>
+    <string name="happyCount"> </string>
+</resources>
